@@ -8,7 +8,7 @@
 # 💬 Инструкция по запуску
 Открыть файл "Код_игры.ipynb" 
 Затем нажать кнопку "Open in colab"
-![image](https://drive.google.com/file/d/18UhIByTpcRqEQ61xeOpztedIw2DxI-wy/view?usp=drive_link)
+![image](https://github.com/file/d/18UhIByTpcRqEQ61xeOpztedIw2DxI-wy/view?usp=drive_link)
 # 🙎‍♂️ Участники
 Болдов Максим, Курганов Вячеслав
 
